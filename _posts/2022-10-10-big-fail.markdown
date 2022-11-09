@@ -1,0 +1,7 @@
+---
+layout: post
+title: "big fail!"
+date: 2022-10-10 22:15:05 +0000
+categories:
+permalink: /bigFail/
+---
