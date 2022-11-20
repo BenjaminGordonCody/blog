@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is crybaby. I'm a software developer and an artist. This is my blog where I talk about those things.
+My name is Ben. I'm a software developer (full-stack), author (long form essays, novels) and artist (music, textiles). I'm completing an MSc in Computer Science with Big Data Analytics.
+
+Find me on:
+
+- [Mastodon](https://tech.lgbt/@Crybaby)
+- [Github](https://github.com/BenjaminGordonCody)
