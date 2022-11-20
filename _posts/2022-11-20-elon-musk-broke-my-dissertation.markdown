@@ -2,7 +2,7 @@
 layout: post
 title: "Elon Musk Broke My Dissertation"
 date: 2022-11-20 11:41:05 +0000
-categories: dissertation
+categories: Dissertation
 ---
 
 I'm an MSc student studying Computer Science with Big Data Analytics at a
